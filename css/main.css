@@ -263,5 +263,13 @@
 .header{
   display: flex;
   justify-content: center;
+  
+}
+body{
+  background-color: purple;
+}
+.name{
+  display: inline-flex;
+  justify-content: right;
 }
   

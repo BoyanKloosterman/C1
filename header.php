@@ -6,5 +6,8 @@
         <a href="versnellen.php">Versnellen</a>
         <a href="vakanties.php">Vakanties</a>
         <a href="sfeer.php">Sfeer</a>
+        <div class="name">
+        <a>Boyan Kloosterman - SSD2E</a>
+        </div>
     </nav>
 </div>
