@@ -1,4 +1,6 @@
- <h1>Curio</h1>
+ <div class="toplogo">
+ <img src="img/curio-15-licht-groen-logo-rgb.png">
+ </div>
  <div class="header">
     <nav>
         <a href="vakken.php">Vakken</a>
