@@ -263,7 +263,6 @@
 .header{
   display: flex;
   justify-content: center;
-  
 }
 body{
   background-color: purple;
@@ -271,5 +270,9 @@ body{
 .name{
   display: inline-flex;
   justify-content: right;
+}
+h1{
+  display: flex;
+  justify-content: center;
 }
   

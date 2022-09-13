@@ -1,4 +1,5 @@
-<div class="header">
+ <h1>Curio</h1>
+ <div class="header">
     <nav>
         <a href="vakken.php">Vakken</a>
         <a href="rooster.php">Rooster</a>
