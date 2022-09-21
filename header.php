@@ -1,4 +1,3 @@
-
  <div class="header">
     <div class="toplogo">
         <img src="img/curio-15-licht-groen-logo-rgb.png">
@@ -10,7 +9,6 @@
         <a href="versnellen.php">Versnellen</a>
         <a href="vakanties.php">Vakanties</a>
         <a href="sfeer.php">Sfeer</a>
-    
     </nav>
     <div class="name">
         <a>Boyan Kloosterman - SSD2E</a>
