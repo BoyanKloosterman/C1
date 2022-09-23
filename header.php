@@ -9,8 +9,3 @@
          <a>Boyan Kloosterman - SSD2E</a>
      </div>
  </div>
- <div class="curiofotos">
-         <marquee behavior="scroll" direction="left">
-             <img src="img/" alt="logo">
-         </marquee>
-     </div>
