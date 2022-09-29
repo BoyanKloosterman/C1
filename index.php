@@ -31,7 +31,11 @@
     <body>
         <img src="https://www.curio.nl/media/hntd3rtn/curio-home-bg.jpg?anchor=center&mode=crop&width=1519&rnd=132793766533370000&quality=70&heightratio=0.475312705727452">
         <div class="informatietext">
-            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure repudiandae alias animi expedita, veritatis veniam ducimus similique cupiditate harum tempore dicta, aperiam in assumenda accusantium! Minima repudiandae laborum incidunt et!</h3>
+            <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure repudiandae alias animi expedita, veritatis veniam ducimus similique cupiditate harum tempore dicta, aperiam in assumenda accusantium! Minima repudiandae laborum incidunt et!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure repudiandae alias animi expedita, veritatis veniam ducimus similique cupiditate harum tempore dicta, aperiam in assumenda accusantium! Minima repudiandae laborum incidunt et!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure repudiandae alias animi expedita, veritatis veniam ducimus similique cupiditate harum tempore dicta, aperiam in assumenda accusantium! Minima repudiandae laborum incidunt et!
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure repudiandae alias animi expedita, veritatis veniam ducimus similique cupiditate harum tempore dicta, aperiam in assumenda accusantium! Minima repudiandae laborum incidunt et!
+            </h3>
         </div>
         <div class="menulinks">
             <!-- Button trigger modal -->
